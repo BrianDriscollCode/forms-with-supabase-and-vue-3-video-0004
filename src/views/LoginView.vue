@@ -11,7 +11,7 @@
 	</div>
 
 	<div class="buttonContainer">
-		<button> Submit </button>
+		<button> Create </button>
 		<button> Login </button>
 		<button> See user </button>
 	</div>
