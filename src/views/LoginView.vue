@@ -17,6 +17,21 @@
 	</div>
 </template>
 
+<script setup>
+
+//connect inputs
+
+//create account
+
+//login
+
+//seeCurrentUser
+
+//logout
+
+
+</script>
+
 <style scoped>
 .inputContainer {
 	display: flex;

@@ -32,4 +32,8 @@ const router = createRouter({
   ]
 })
 
+//getUser
+
+//auth requirements
+
 export default router
