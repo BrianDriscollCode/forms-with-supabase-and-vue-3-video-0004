@@ -73,13 +73,13 @@ async function seeUser() {
 }
 
 async function logout() {
-	const { data, error } = await supabase.auth.signOut();
+	const { error } = await supabase.auth.signOut();
 
 	if (error) {
 		console.log(error);
 	}
 	else {
-        loggedUser.value = data;
+		console.log("Sign out success")
 	}
 }
 </script>
